@@ -1,0 +1,12 @@
+net: "{train_proto}"
+base_lr: {lr}
+lr_policy: "step"
+gamma: 0.1
+stepsize: {step_size}
+display: 0
+max_iter: {max_iter}
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: {snapshot_iter}
+snapshot_prefix: "{output_dir}/weights/snap"
+

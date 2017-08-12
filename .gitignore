@@ -1,0 +1,80 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# User Ingore
+data/
+datasets/
+output/
+cachedir/
+*.mexa64
+imdb/cache
+#*.caffemodel
+#*.mat
+*.jpg
+bin/
+pathdef.m
+external/
+pretrained/
+*~
+final_BCN
+final_RPN
+pathdef.m
+
+rcnn_sep/output
+rcnn_sep/preprocessed
+rcnn_sep/tmprois
+
+pretrained/VGG16_caltech_weak_100k_10.60.caffemodel
+pretrained/VGG16_caltech_weak_100k_10.67.caffemodel
+pretrained/VGG16_caltech_weak_90k_10.56_incr.caffemodel
+pretrained/rcnn_iter_50000.caffemodel
+pretrained/seg+rpn+stage2_180k.caffemodel
+pretrained/seg_sep_city_90k.caffemodel
+pretrained/vgg16_bbox.caffemodel
+pretrained/vgg16_pc.caffemodel
+pretrained/vgg16_roip_deeper.caffemodel
+pretrained/vgg16_sa.caffemodel
+pretrained/vgg16_subnets.caffemodel
+pretrained/vgg16_with_seg_60k_merged.caffemodel
+pretrained/weakseg_100k_7.07MR.caffemodel
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
