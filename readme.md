@@ -13,7 +13,7 @@ Our SDS-RCNN framework is derivative work of [Faster R-CNN](https://github.com/S
         title={Illuminating Pedestrians via Simultaneous Detection \& Segmentation},
         author={Brazil, Garrick and Yin, Xi and Liu, Xiaoming},
         booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-        address={Vencie, Italy},
+        address={Venice, Italy},
         year={2017}
     }
 
